@@ -7,10 +7,6 @@ Olá, esse projeto é para prática e estudo sobre GIT;
 
 -Comandos:
 
-<<<<<<< HEAD
-
-=======
->>>>>>> novo-botao
     -git init (inicializa o GIT, nem sempre master será a linha principal, GIT está mudando a nomenclatura para "main")
 
     -git add Readme.md(ou o nome do arquivo/ serve para adicionar o arquivo) 
