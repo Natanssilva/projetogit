@@ -1,4 +1,6 @@
 Olá, esse projeto é para prática e estudo sobre GIT;
+
+
 -Formas de utilizar o GIT:
     -Pelo terminal do VScode
     -Pelo GIT Bash
