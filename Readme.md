@@ -3,7 +3,9 @@ Olá, esse projeto é para prática e estudo sobre GIT
 -Comandos:
     -git init (inicializa o GIT, nem sempre master será a linha principal, GIT está mudando a nomenclatura para "main")
 
-    -git add Readme.md(ou o nome do arquivo/ serve para adicionar o arquivo)
+    -git add Readme.md(ou o nome do arquivo/ serve para adicionar o arquivo) 
+                ou 
+    -git add . (ao contrário de adicionar só um arquivo para alterações e mandar para o stage, ele adiciona *TODOS* arquivos que está disponivel)
 
     -git status (mostra o status, qual arquivo foi adicionado na área de stage)
 
