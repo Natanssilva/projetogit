@@ -1,4 +1,7 @@
-Olá, esse projeto é para prática e estudo sobre GIT
+Olá, esse projeto é para prática e estudo sobre GIT;
+-Formas de utilizar o GIT:
+    -Pelo terminal do VScode
+    -Pelo GIT Bash
 
 -Comandos:
     -git init (inicializa o GIT, nem sempre master será a linha principal, GIT está mudando a nomenclatura para "main")
@@ -17,3 +20,4 @@ Olá, esse projeto é para prática e estudo sobre GIT
 
     -git push -u origin main (por último, manda tudo para o Github, "empurra")
     
+    -git checkout "main" (volta para a branch desejada)
