@@ -28,4 +28,6 @@ Olá, esse projeto é para prática e estudo sobre GIT
         -Só precisa usar o comando 1 vez para criar a conexão
 
     -git push -u origin main (por último, manda tudo para o Github, "empurra")
+
+    -git checkout -b "novo-botao" (criando uma nova Branch,e com o checkout, saindo da branch que eu estava(main) e indo para a branch "novo botao")
     
