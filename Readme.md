@@ -40,3 +40,8 @@ Olá, esse projeto é para prática e estudo sobre GIT;
     
     -git merge nome-da-branch (juntar branch com a principal)
 
+    -git clone <link> (ele cópia um repositório existente.)
+
+    -git pull ( Pega a atualização do git clone. (Antes entrar com cd).)
+
+    -pull request (sugestão de alteração para outra pessoa)
